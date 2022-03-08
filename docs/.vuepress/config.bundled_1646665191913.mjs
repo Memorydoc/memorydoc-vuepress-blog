@@ -16,7 +16,7 @@ var htmlModule = {
       font-weight: bold;
       margin: 0 0 8px 0;
     ">\u516C\u4F17\u53F7</p>
-    <img src="https://cdn.jsdelivr.net/gh/Memorydoc/image_store@master/blog/\u626B\u7801_\u641C\u7D22\u8054\u5408\u4F20\u64AD\u6837\u5F0F-\u6807\u51C6\u8272\u7248.1wp8gd1mhjhc.jpg"  style="width:100%;" />
+    <img src="https://cdn.jsdelivr.net/gh/xugaoyi/image_store@master/blog/\u626B\u7801_\u641C\u7D22\u8054\u5408\u4F20\u64AD\u6837\u5F0F-\u6807\u51C6\u8272\u7248.1wp8gd1mhjhc.jpg"  style="width:100%;" />
     <p>
     \u6709\u8DA3\u7814\u7A76\u793E\uFF0C\u8FD9\u91CC\u6709<a href="https://game.Memorydoc.com" arget="_blank" > FC\u5728\u7EBF\u6A21\u62DF\u5668(\u5C0F\u9738\u738B) <span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a>\uFF0C\u8FD8\u6709\u66F4\u591A\u597D\u73A9\u7684\u7B49\u7740\u4F60\u53BB\u63A2\u7D22~
     </br></br>
@@ -139,7 +139,7 @@ var config_default = defineConfig4CustomTheme({
       link: "https://github.com/Memorydoc"
     },
     blogger: {
-      avatar: "https://cdn.jsdelivr.net/gh/Memorydoc/image_store/blog/20200103123203.jpg",
+      avatar: "https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200103123203.jpg",
       name: "Memorydoc",
       slogan: "\u524D\u7AEF\u754C\u7684\u5C0F\u5B66\u751F"
     },
