@@ -98,6 +98,17 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
               { text: '微服务', link: '/pages/1b9fb0/' },
               { text: '数据库', link: '/pages/741469/' },
             ]
+          },
+          {
+            text: '项目优化实战',
+            items: [
+              {text: 'JVM 优化', link: ''},
+              {text: '线程池优化', link: ''},
+              {text: '模板引擎优化', link: ''},
+              {text: '任务调度优化', link: ''},
+              {text: '内存优化', link: ''},
+            ]
+
           }
 
         ],
